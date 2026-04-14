@@ -6,17 +6,20 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AraCasillas&theme=dark&exclude_days=Sun%2CSat&sideNums=C477EB&ring=EB5454&sideLabels=EB5454)](https://git.io/streak-stats)
 
 </div>
-<br>
-MBCC Sinners Division — Operator on file.
 
-Every system has its cracks. Every firewall, a seam waiting to be found.
-I move through networks the way Chelsea moves through a crowd —
-precise, deliberate, and always with purpose.
-
-My code is not chaos. It is containment.
-Each script a leash. Each exploit a key
-to understand what should never be left open.
-<br>
+<div align="center">
+<br><i>
+<b>MBCC Sinners Division — Sinner 080296 aka. Ara</b>
+<br><br>
+Found at February, managed to create a chaos in Syndacate.<br>
+She can be seeing using a laptop or a phone as her mania's catalyst —<br>
+Special hability: Hunting and finding malware, hunt scammers and pet dogs<br><br>
+Ulti: Unknown.<br>
+Chief's notes: ██ ███ █████ ████ ████ ██████ █████ <br>
+Rank: A.<br>
+Class: Umbra.
+<br></i>
+</div>
 
 <img src="https://i.pinimg.com/1200x/04/aa/b9/04aab926f71315371a37025abec5fcb2.jpg" alt="img" align="right" width="400px">
 
