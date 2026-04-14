@@ -1,11 +1,12 @@
-# AreiaNight
+# Ara Casillas
+
 <div align="center">
-<br><div align="center"> <i>"Yo, you're back. It's been a while since I last saw you. I was a little concerned. "</i> </div><br>
+<br><i>"Yo, you're back. It's been a while since I last saw you. I was a little concerned. "</i><br><br>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AraCasillas&theme=dark&exclude_days=Sun%2CSat&sideNums=C477EB&ring=EB5454&sideLabels=EB5454)](https://git.io/streak-stats)
+
 </div>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AraCasillas&theme=dark&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 <br>
-
 Like a Kindred navigating the nights of New York, I traverse the digital shadows with purpose. My code is my discipline, each script a carefully cultivated manifestation of power. Between terminal lines and silent exploits, I study system weaknesses not to destroy, but to understand and fortify.
 Currently learning and evolving my skills in cybersecurity, system administration, and software development.
 
