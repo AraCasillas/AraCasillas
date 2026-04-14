@@ -3,7 +3,7 @@
 <br><div align="center"> <i>"Yo, you're back. It's been a while since I last saw you. I was a little concerned. "</i> </div><br>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AraCasillast&theme=tokyonight&hide_border=true"/>
+  <[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AraCasillas&theme=dark&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 </p>
 
 <br>
