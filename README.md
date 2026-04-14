@@ -1,6 +1,7 @@
 # AreiaNight
-
+<div align="center">
 <br><div align="center"> <i>"Yo, you're back. It's been a while since I last saw you. I was a little concerned. "</i> </div><br>
+</div>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AraCasillas&theme=dark&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 <br>
