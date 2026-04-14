@@ -7,9 +7,15 @@
 
 </div>
 <br>
-Like a Kindred navigating the nights of New York, I traverse the digital shadows with purpose. My code is my discipline, each script a carefully cultivated manifestation of power. Between terminal lines and silent exploits, I study system weaknesses not to destroy, but to understand and fortify.
-Currently learning and evolving my skills in cybersecurity, system administration, and software development.
+MBCC Sinners Division — Operator on file.
 
+Every system has its cracks. Every firewall, a seam waiting to be found.
+I move through networks the way Chelsea moves through a crowd —
+precise, deliberate, and always with purpose.
+
+My code is not chaos. It is containment.
+Each script a leash. Each exploit a key
+to understand what should never be left open.
 <br>
 
 <img src="https://i.pinimg.com/1200x/04/aa/b9/04aab926f71315371a37025abec5fcb2.jpg" alt="img" align="right" width="400px">
